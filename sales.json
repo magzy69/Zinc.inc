@@ -1,0 +1,22 @@
+[
+  {
+    "date": "2025-04-07",
+    "time": "02:24:31",
+    "customer": "sarju",
+    "patient_id": "0054505",
+    "doctor": "patel",
+    "gst_number": "22AAAAA0000A1Z5",
+    "items": [
+      {
+        "medicine": "metformin",
+        "quantity": 5,
+        "price": 1.3,
+        "total": 6.5
+      }
+    ],
+    "subtotal": 6.5,
+    "gst": 1.17,
+    "total": 7.67,
+    "profit": 1.5000000000000002
+  }
+]

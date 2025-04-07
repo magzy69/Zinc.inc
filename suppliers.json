@@ -1,0 +1,8 @@
+{
+  "default": {
+    "name": "Default Supplier",
+    "contact": "9999999999",
+    "email": "supplier@example.com",
+    "address": "123 Supplier Street"
+  }
+}

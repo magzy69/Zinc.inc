@@ -1,0 +1,8 @@
+{
+  "metformin": {
+    "quantity": 45,
+    "price": 1.3,
+    "cost": 1.0,
+    "supplier": "medicorp"
+  }
+}
